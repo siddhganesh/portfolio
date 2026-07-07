@@ -104,7 +104,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>{project.tools}</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt={project.name} />
+              <WorkImage image={import.meta.env.BASE_URL + "images/placeholder.webp"} alt={project.name} />
             </div>
           ))}
 
@@ -126,7 +126,7 @@ const Work = () => {
             <div className="work-image one-piece-image-wrap">
               <div className="work-image-in">
                 <img
-                  src="/images/luffy.jpg"
+                  src={import.meta.env.BASE_URL + "images/luffy.jpg"}
                   alt="One Piece - Luffy"
                   className="one-piece-img"
                 />
