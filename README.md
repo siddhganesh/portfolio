@@ -1,7 +1,8 @@
-# My Portfolio Website - Overview 🚀
+# Siddh Ramesh Madaye - Portfolio Website 🚀
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+This is my personal portfolio website, featuring a 3D interactive character, modern animations, and my projects.
+
+🔗 **Live Website:** [https://siddhganesh.github.io/portfolio/](https://siddhganesh.github.io/portfolio/)
 
 ---
 
@@ -19,7 +20,7 @@ If you use parts of the code, you must provide proper credit linking back to the
 
 Build your own version — don’t just copy.
 
-— Moncy Yohannan
+— Siddh Ramesh Madaye
 
 ---
 
